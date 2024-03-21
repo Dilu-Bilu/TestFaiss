@@ -1,0 +1,5 @@
+Loading faiss with AVX2 support.
+Successfully loaded faiss with AVX2 support.
+Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+FaissRM: embedding size=384
+10 vectors in faiss index
